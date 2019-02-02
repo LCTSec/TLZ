@@ -1,2 +1,2 @@
 # TLZ
-TaLaZ (Tanggal Lahir Zodiak)
+TaLaZ (Tanggal Lahir Zodiak) with python2
